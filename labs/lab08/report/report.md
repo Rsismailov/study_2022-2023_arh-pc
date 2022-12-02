@@ -169,29 +169,29 @@ E8B2FEFFFF, A1- машинный код, инструкция на машинн�
 
 ![работа lab8-1.asm](image/1.jpg){ #fig:001 width=90% }
 
-![работа нового lab8-1](image/2.jpg){ #fig:002 width=100% }
+![работа lab8-1.asm (2)](image/2.jpg){ #fig:002 width=100% }
 
 ![код lab8-2](image/3.jpg){ #fig:004 width=70% }
 
 ![проверка lab8-2](image/4.jpg){ #fig:005 width=100% }
 
-![Наибольшая переменная с разными В](image/5.jpg){ #fig:006 width=100% }
+![разныe В](image/5.jpg){ #fig:006 width=100% }
 
 ![Файл листинга](image/6.jpg){ #fig:007 width=100% }
 
 ![Ошибка в файле листинга](image/7.jpg){ #fig:008 width=100% }
 
-![код lab8-3.asm](image/8.jpg){ #fig:009 width=100% }
+![код min.asm](image/8.jpg){ #fig:009 width=100% }
 
-![код lab8-3.asm](image/9.jpg){ #fig:010 width=100% }
+![код min.asm](image/9.jpg){ #fig:010 width=100% }
 
-![проверка lab8-3.asm](image/10.jpg){ #fig:011 width=100% }
+![проверка min.asm](image/10.jpg){ #fig:011 width=100% }
 
-![код lab8-4.asm](image/11.jpg){ #fig:012 width=100% }
+![код var14.asm](image/11.jpg){ #fig:012 width=100% }
 
-![код lab8-4.asm](image/12.jpg){ #fig:013 width=100% }
+![код var14.asm](image/12.jpg){ #fig:013 width=100% }
 
-![проверка lab8-4.asm](image/13.jpg){ #fig:014 width=100% }
+![проверка var14.asm](image/13.jpg){ #fig:014 width=100% }
 
 # Выводы
 
